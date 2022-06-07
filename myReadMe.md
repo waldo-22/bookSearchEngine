@@ -17,6 +17,3 @@ sign up with name, email, and password. Search for a book. Save selected book. V
 Dane Edwards
 ## Questions,Comments,Concerns:
 Contact me via email and phone number ect. Email: waldochristianson@gmail.com PhoneNumber: 678-999-8212 LinkedIn:https://www.linkedin.com/in/reniel-christianson-677575189/ GitHub: https://github.com/waldo-22
-
-
-<!-- ![ "Generate Password screenshot".](./Assets/03-javascript-homework-demo.png) -->

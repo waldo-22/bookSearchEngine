@@ -71,7 +71,7 @@ const SearchBooks = () => {
     // get token
     const token = Auth.loggedIn() ? Auth.getToken() : null;
     const profileData = Auth.getProfile();
-    const userId = profileData.data._id;
+    // const userId = profileData.data._id;
 
     if (!token) {
       return false;
@@ -80,7 +80,7 @@ const SearchBooks = () => {
     try {
       const response = await saveBook({
         variables: {
-          userId: userId,
+          // userId: userId,
           authors: bookToSave.authors,
           description: bookToSave.description,
           bookId: bookToSave.bookId,
